@@ -5,6 +5,8 @@
 #Each line has an equal chance of being rolled. However, names inside groups become rarer because of this.
 # (MATERIAL) is used for intrinsic armor trim materials for blacksmiths
 
+#Authors: Jfrogy, Alectriciti + Community <3
+
 #groups -
 # Soft
 {Meadow|Weave|Padding} [Soft] (AMETHYST)

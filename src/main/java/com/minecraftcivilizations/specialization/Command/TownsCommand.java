@@ -19,6 +19,11 @@ import java.util.List;
 import java.util.Map;
 import java.util.Objects;
 
+/**
+ * Redisnged and optimized. (used to scan entire world and load all chunks for towns and get all beds causing large lag spikes)
+ * @author Jfrogy
+ */
+
 @CommandAlias("towns")
 public class TownsCommand extends BaseCommand {
 

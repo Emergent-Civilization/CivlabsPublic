@@ -15,6 +15,10 @@ import org.bukkit.inventory.ItemStack;
 
 import java.util.Set;
 
+/**
+ * @author Jfrogy & Alectriciti
+ */
+
 public class PacketListener extends PacketAdapter {
 
     EmoteManager emoteCommand;

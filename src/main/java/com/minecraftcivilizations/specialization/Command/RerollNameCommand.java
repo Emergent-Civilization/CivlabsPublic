@@ -18,6 +18,11 @@ import org.bukkit.persistence.PersistentDataType;
 import java.util.NoSuchElementException;
 import java.util.UUID;
 
+/**
+ * allows players or admins to reroll their username or another player's username and set a custom username
+ * @author Jfrogy
+ */
+
 @CommandAlias("rerollname|reroll")
 @CommandPermission("specialization.rerollname")
 public class RerollNameCommand extends BaseCommand {

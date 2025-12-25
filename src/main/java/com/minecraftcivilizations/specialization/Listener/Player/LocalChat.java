@@ -23,7 +23,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.UUID;
-
+/*
+* This used to hold chat bubbles system. It has been removed
+* as I plan to release it as a standalone plugin - Jfrogy
+ */
 public class LocalChat implements Listener {
 
     // ---- CONSTANTS ----

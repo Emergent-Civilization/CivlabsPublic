@@ -21,6 +21,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
+/**
+ * @author Jfrogy
+ */
 @CommandAlias("setnameoption|nameoptions|namechoice")
 //No permissions needed here. Handles all exceptions afaik.
 //@CommandPermission("specialization.setnameoption")

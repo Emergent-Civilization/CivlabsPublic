@@ -30,6 +30,10 @@ import java.util.Objects;
 import java.util.UUID;
 import java.util.concurrent.ThreadLocalRandom;
 
+/*
+    Bed system redisigned and optimized. Allowing only 1 player to claim each bed.
+    @author JFrogy
+ */
 
 public class BedListener implements Listener {
 

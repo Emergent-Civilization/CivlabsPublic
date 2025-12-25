@@ -35,6 +35,11 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
+
+/**
+ * @author Jfrogy
+ */
+
 public class LocalNameGenerator implements Listener {
 
     private List<String> firstNames;
@@ -49,9 +54,6 @@ public class LocalNameGenerator implements Listener {
 
     BlacksmithArmorTrim blacksmithArmorTrim; //we'll reference this to access things like applyFirstName, etc.
 
-    /**
-     * @throws IOException if either file can't be read
-     */
     public LocalNameGenerator(Specialization specialization) throws IOException {
         if (specialization != null) {
             specialization.getServer().getPluginManager().registerEvents(this, specialization);
@@ -627,7 +629,9 @@ public class LocalNameGenerator implements Listener {
         }
     }
 
-
+/**
+ * @author Alectriciti
+ */
 
 
     /**

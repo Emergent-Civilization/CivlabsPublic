@@ -17,6 +17,13 @@ import org.jetbrains.annotations.NotNull;
 import java.util.*;
 import java.util.stream.Collectors;
 
+/**
+ * @author Jfrogy
+ */
+
+/** @warning currently disabled due to load player method overriding players xp during runtime **/
+
+
 @CommandAlias("xpleaderboard|xplb")
 @CommandPermission("civlabs.xpleaderboard")
 public class XPLeaderboardCommand extends BaseCommand {

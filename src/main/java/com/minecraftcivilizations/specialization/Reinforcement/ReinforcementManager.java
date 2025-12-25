@@ -28,6 +28,11 @@ public class ReinforcementManager {
     private static final long CACHE_EXPIRE_MS = 2 * 60 * 1000L; // 2 minutes
     private static final int CHUNK_RADIUS = 3; //scan radius around player to show particles
 
+
+    /**
+     * Optimized by Jfrogy and redisiged by Jfrogy
+     */
+
     // --------------------- PARTICLE STREAMING ---------------------
     public static void startReinforcement() {
 

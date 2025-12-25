@@ -63,13 +63,6 @@ public class XpTransferBookListener implements Listener {
     }
 
 
-    /**
-     * The event for grabbing XP from another player
-     */
-    /**
-     *  XpTransfer system
-     * @author JFrogy
-     */
     @EventHandler(priority = EventPriority.HIGHEST)
     public void onSneakRightClick(PlayerInteractEvent event) {
         if (event.getAction() != Action.RIGHT_CLICK_AIR && event.getAction() != Action.RIGHT_CLICK_BLOCK) return;

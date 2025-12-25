@@ -4,6 +4,7 @@
 # (PATTERN) is used for intrinsic armor trim patterns for blacksmiths
 # these should be common, generic fallback: (COAST) (HOST) (SHAPER)
 #
+# Authors: Jfrogy, Alectriciti + Community <3
 
 #groups -
 # Soft

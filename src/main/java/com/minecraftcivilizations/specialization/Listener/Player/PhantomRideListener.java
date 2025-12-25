@@ -24,6 +24,10 @@ import java.nio.charset.StandardCharsets;
 import java.util.Base64;
 import java.util.UUID;
 
+/**
+ * Phantom Ride system
+ * @author JFrogy
+ */
 public class PhantomRideListener implements Listener {
 
     private final NamespacedKey ownerKey = new NamespacedKey(Specialization.getInstance(), "ownerUUID");

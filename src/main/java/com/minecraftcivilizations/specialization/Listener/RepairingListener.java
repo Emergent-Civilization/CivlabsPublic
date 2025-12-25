@@ -17,6 +17,10 @@ import org.bukkit.inventory.meta.Damageable;
 
 import static org.bukkit.ChatColor.*;
 import static com.minecraftcivilizations.specialization.util.MathUtils.random;
+/**
+ * @author Jfrogy
+ */
+
 
 /**
  * Blacksmith Repairing System with hunger + EXP cost + skill XP gain

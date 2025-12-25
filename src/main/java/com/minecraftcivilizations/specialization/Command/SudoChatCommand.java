@@ -9,6 +9,10 @@ import org.bukkit.entity.Player;
 
 import java.util.*;
 
+/**
+ * allows you to run commands or send messages as another player or all players.
+ * @author Jfrogy
+ */
 @CommandAlias("sudo")
 @CommandPermission("sudo.admin")
 @Description("Force a player or everyone to run a command or send a message.")

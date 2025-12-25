@@ -9,6 +9,9 @@ import org.bukkit.NamespacedKey;
 import org.bukkit.entity.Player;
 import org.bukkit.persistence.PersistentDataType;
 
+/**
+ * @author Jfrogy
+ */
 @CommandAlias("xpmonitor|xpm")
 @Description("Manage XP gain thresholds and alert cooldowns")
 public class XPMonitoringCommand extends BaseCommand {

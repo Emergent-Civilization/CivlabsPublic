@@ -15,6 +15,9 @@ import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Jfrogy
+ */
 @CommandAlias("SimulateNameRoll")
 public class RandomNameBulkTestCommand extends BaseCommand {
 

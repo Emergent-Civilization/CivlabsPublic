@@ -43,6 +43,7 @@ import java.util.*;
 
 /**
  * @author Jfrogy
+ *
  */
 
 public class EmoteManager extends BaseCommand implements Listener {
