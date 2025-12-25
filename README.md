@@ -1,4 +1,4 @@
-#Civlabs public source code releases
+# Civlabs public source code releases
 
 This source code is provided without warrenty and will almost alwayd be outdated. The current release is from Event 4, and is considered stable ish.
 Feel free to try make derivitive servers or other projects, but keep in mind the LISENXE. Essentially you agree that if you clone and modify and then distribute this codebase, weather it be a plugin oj spigot or your own server, you **must**:
